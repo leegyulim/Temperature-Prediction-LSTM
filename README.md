@@ -5,6 +5,8 @@
 <br>
 
 <img width="559" height="339" alt="2017 LSTM" src="https://github.com/user-attachments/assets/6520709a-f542-45c8-93fc-8e526e2d8e71" />
+
+
 > (캡션) 2017년 데이터 일부를 검증 세트로 활용한 LSTM 모델의 초기 학습 경향성 확인 그래프
 
 <br>
